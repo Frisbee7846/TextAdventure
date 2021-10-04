@@ -1,0 +1,16 @@
+C:\Users\c21frejo\RiderProjects\TextAdventure\TextAdventure\bin\Debug\net5.0\TextAdventure.exe
+C:\Users\c21frejo\RiderProjects\TextAdventure\TextAdventure\bin\Debug\net5.0\TextAdventure.deps.json
+C:\Users\c21frejo\RiderProjects\TextAdventure\TextAdventure\bin\Debug\net5.0\TextAdventure.runtimeconfig.json
+C:\Users\c21frejo\RiderProjects\TextAdventure\TextAdventure\bin\Debug\net5.0\TextAdventure.runtimeconfig.dev.json
+C:\Users\c21frejo\RiderProjects\TextAdventure\TextAdventure\bin\Debug\net5.0\TextAdventure.dll
+C:\Users\c21frejo\RiderProjects\TextAdventure\TextAdventure\bin\Debug\net5.0\ref\TextAdventure.dll
+C:\Users\c21frejo\RiderProjects\TextAdventure\TextAdventure\bin\Debug\net5.0\TextAdventure.pdb
+C:\Users\c21frejo\RiderProjects\TextAdventure\TextAdventure\obj\Debug\net5.0\TextAdventure.csprojAssemblyReference.cache
+C:\Users\c21frejo\RiderProjects\TextAdventure\TextAdventure\obj\Debug\net5.0\TextAdventure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\c21frejo\RiderProjects\TextAdventure\TextAdventure\obj\Debug\net5.0\TextAdventure.AssemblyInfoInputs.cache
+C:\Users\c21frejo\RiderProjects\TextAdventure\TextAdventure\obj\Debug\net5.0\TextAdventure.AssemblyInfo.cs
+C:\Users\c21frejo\RiderProjects\TextAdventure\TextAdventure\obj\Debug\net5.0\TextAdventure.csproj.CoreCompileInputs.cache
+C:\Users\c21frejo\RiderProjects\TextAdventure\TextAdventure\obj\Debug\net5.0\TextAdventure.dll
+C:\Users\c21frejo\RiderProjects\TextAdventure\TextAdventure\obj\Debug\net5.0\ref\TextAdventure.dll
+C:\Users\c21frejo\RiderProjects\TextAdventure\TextAdventure\obj\Debug\net5.0\TextAdventure.pdb
+C:\Users\c21frejo\RiderProjects\TextAdventure\TextAdventure\obj\Debug\net5.0\TextAdventure.genruntimeconfig.cache
